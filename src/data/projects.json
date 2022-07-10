@@ -1,0 +1,60 @@
+{
+
+    "projects":[
+        {
+            "_id": 1,
+            "cardTitle": "Large Shed",
+            "cardText": "A really cool shed I built",
+            "src": "./assets/shed.jpeg",
+            "alt": "Joe's Shed"
+          
+        },
+
+        {
+            "_id": 2,
+            "cardTitle": "All Wood Gazebo",
+            "cardText": "An all wood Gazebo made from the finest trees",
+            "src": "./assets/gazebo1.jpg",
+            "alt": "John's Gazebo"
+            
+        },
+
+        {
+            "_id": 3,
+            "cardTitle": "Landscaping Example",
+            "cardText": "The front yard of a house I have landscaped",
+            "src": "./assets/landscapingservices.jpg",
+            "alt": "Jimmy's Lawn"
+        },
+
+        {
+            "_id": 4,
+            "cardTitle": "README.md Generator App",
+            "cardText": "This README generator takes user input using inquier and populates that a pre-written README template outlined in the homework.  The template creates Description, Installation, Usage, License, Contributing, Tests, and Questions in the Table of Contents, and has direct links to areasin the document that are populated via the generateMarkdown.js. The README file is then generated to the base file structure.",
+            "src": "./assets/Trimmed-Readme.gif",
+            "alt": "README.md Generator App",
+            "github": "https://github.com/luckyian/Readme-generator",
+            "project": "https://luckyian.github.io/Readme-generator/"
+        },
+
+        {
+            "_id": 5,
+            "cardTitle": "Weather Dashboard",
+            "cardText": "This Weather Dashboard is able to take a city via search input and display the current weather data, and five day forecast with data including UV index, humidity, wind speed, temperature and the date of the weather info.  Each search is saved as a button on the left side of the screen that will re-search the city on click of the button.  All searches are saved in local storage, and the last city searched will populated the fields when the page is refreshed.",
+            "src": "./assets/weather-dashboard.gif",
+            "alt": "Weather Dashboard",
+            "github": "https://github.com/luckyian/Weather-Dashboard/",
+            "project": "https://luckyian.github.io/Weather-Dashboard/"
+        },
+
+        {
+            "_id": 6,
+            "cardTitle": "Javascript Quiz",
+            "cardText": "In this quiz I used the  index.html, style.css, and script.js to create a quiz that asks questions in a multiple choice format, recording a one point score for each correct answer and subtracting five seconds from a 30 second timer for every wrong answer.  I used JavaScript functions to: create a listening ability to buttons on the HTML, populate the HTML with questions, verify chosen answers with correct answers, save final score to local storage if the user wishes, if saving the score is chosen it asks for intials and saves those as well.  Upon finishing the quiz, the user is taken to the high score HTML page which pulls high scores from the local storage and displays them in order of quiz taken, oldest on top.",
+            "src": "./assets/HTML_Quiz.gif",
+            "alt": "Javascript Quiz",
+            "github": "https://github.com/luckyian/Quiz/",
+            "project": "https://luckyian.github.io/Quiz/"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+.portfolioCard {
+    margin: 15px;
+}
+
+.tabletop {
+    padding-left: 20%;
+}
+
+.aboutBack {
+    background: radial-gradient(circle, #b0c9af, #414152, #161617);
+}
+
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+  }
+  
+.video-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+  .text{
+    color: #f7e290;
+    font-family: 'Raleway', sans-serif;
+  }
+  .text2{
+    color: #f7e290;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+  }
+  .fontSize{
+    font-size:20px;
+  }
+  .boxer{
+  
+  text-align: center;
+  }

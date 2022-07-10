@@ -1,0 +1,16 @@
+.portfolioCard {
+    margin: 15px;
+}
+
+.tabletop {
+    padding-left: 20%;
+}
+
+.aboutBack {
+    background: radial-gradient(circle, #b0c9af, #414152, #161617);
+    border: 5px;
+    padding: 5px;
+}
+.text{
+    color: #f7e290;
+  }
