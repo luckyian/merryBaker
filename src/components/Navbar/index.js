@@ -9,7 +9,7 @@ function Navibar() {
     return (
         <Navbar expand="md" className="navibar text" variant="dark" sticky="top">
             <div className="col-md-9">
-                <Navbar.Brand className="text" href="#"  >FORTRESS OF THE BEAR</Navbar.Brand>
+                <Navbar.Brand className="text" href="#"  >Merry Little Baker</Navbar.Brand>
                 <Navbar.Toggle  className="float-right" type="button" data-toggle="collapse"
                     data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                     aria-label="Toggle navigation" />
@@ -18,9 +18,9 @@ function Navibar() {
                 <Navbar.Collapse id="navbarNavAltMarkup">
                     <Nav>
                         <Nav.Link className="text" href="/#/index" >Home</Nav.Link>
-                        <Nav.Link className="text" href="/#/videos" >Videos</Nav.Link>
+                        <Nav.Link className="text" href="/#/videos" >Goods</Nav.Link>
                         {/* <Nav.Link href="/fortressofthebear/#/store" >Store</Nav.Link> */}
-                        <Nav.Link className="text" href="/#/contact" >Contact</Nav.Link>
+                        <Nav.Link className="text" href="/#/contact" >Order</Nav.Link>
                         {/* <Nav.Link href="/fortressofthebear/#/login" >Join</Nav.Link> */}
                         <Nav.Link href="#" className="nav-link" tabindex="5" aria-disabled="true"> </Nav.Link>
                     </Nav>
