@@ -1,9 +1,8 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./style.css";
-import Music from '../components/Subcomponents/Music/index'
-import Tour from '../components/Subcomponents/Tour/index'
-import BandPhoto from "../components/Subcomponents/Bandphoto";
+import Goods from '../components/Subcomponents/Goods/index'
+import Logo from "../components/Subcomponents/Logo";
 
 
 function Index() {
@@ -15,11 +14,11 @@ function Index() {
 
     <div>
       <div className="mt-5">
-      <BandPhoto/>
+      <Logo/>
         
-         <Tour/>
+         <Goods/>
          <br/>
-         <Music/>
+        
         
       </div>
     </div>

@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 import "./style.css";
 
 
-function BandPhoto() {
+function Logo() {
 
 
 
@@ -19,4 +19,4 @@ function BandPhoto() {
         </Card>
     )
 }
-export default BandPhoto;
+export default Logo;

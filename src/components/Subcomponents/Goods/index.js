@@ -4,7 +4,7 @@ import Card from 'react-bootstrap/Card';
 import "./style.css";
 
 
-function Tour() {
+function Goods() {
 
 
 
@@ -22,11 +22,9 @@ function Tour() {
            {/* <h3>Check Back Soon for Upcoming Shows</h3> */}
          <h1>Cupcakes</h1>
          <br></br>
-         <h4>July 14th, 2022 @ 4pm</h4>
          <h4>
-          <a href="https://ptmainstreet.org/event/concerts-on-the-dock-2022-07-14/">Concerts on the Dock</a>
+          <Card.Img src=".\assets\merryGnomePig.jpg" alt="Piggy"></Card.Img> 
          </h4>
-         <h4>Port Townsend, WA</h4>
          
          <br></br>
          <br></br>
@@ -85,4 +83,4 @@ function Tour() {
       </Card>
   )
 }
-export default Tour;
+export default Goods;

@@ -1,7 +1,7 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./style.css";
-import BandPhoto from "../components/Subcomponents/Bandphoto";
+import Logo from "../components/Subcomponents/Logo";
 import Card from 'react-bootstrap/Card';
 
 
@@ -15,7 +15,7 @@ function Contact() {
     <div>
       <div className="mt-5">
         <h1 className="text2">Contact</h1>
-        <BandPhoto />
+        <Logo />
 
         <Card className="aboutBack">
           <Card.Body className="text">

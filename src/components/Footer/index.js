@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Footer() {
   return (
     <footer className="sticky-bottom foot" variant="dark" >
-      &#169; Fortress of The Bear
+      &#169; Merry Little Baker Inc.
     </footer>
   );
 }
