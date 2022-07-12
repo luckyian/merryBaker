@@ -13,75 +13,31 @@ function Videos() {
       <Card>
 
 
-        <div className="video-responsive">
-          <iframe width="1200" height="800" 
-          src="https://www.youtube.com/embed/l3aeCc5ib_k" 
-          title="YouTube video player" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-          allowfullscreen>
-
-          </iframe>
-        </div>
+      <Card.Img src=".\assets\merryGnomeClose.jpg" alt="TheGoods"></Card.Img>
 
       </Card>
       <br/>
       <Card className="video-responsive">
 
-      <iframe width="1200" 
-      height="800" 
-      src="https://www.youtube.com/embed/jLK0RlDs6Lc" 
-      title="YouTube video player" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-
-      </iframe>
+      <Card.Img src=".\assets\merryGnomeCookie.jpg" alt="TheGoods"></Card.Img>
 
       </Card >
 <br/>
       <Card className="video-responsive">
 
-      <iframe 
-      width="1200" 
-      height="800" 
-      src="https://www.youtube.com/embed/ZwtFogVnjeY" 
-      title="YouTube video player" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-
-      </iframe>
+      <Card.Img src=".\assets\merryGnomeFish.jpg" alt="TheGoods"></Card.Img>
       </Card >
       <br/>
       <Card className="video-responsive">
 
-      <iframe 
-      width="1200" 
-      height="800" 
-     src="https://www.youtube.com/embed/Tvgx7PzUIZk" 
-     title="YouTube video player" 
-     frameborder="0" 
-     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-     allowfullscreen>
-
-      </iframe>
-
+      
+      <Card.Img src=".\assets\merryGnomePig.jpg" alt="TheGoods"></Card.Img>
       
       </Card >
       <br/>
       <Card className="video-responsive">
 
-      <iframe 
-      width="1200" 
-      height="800" 
-      src="https://www.youtube.com/embed/nYX29qskmZ0" 
-      title="YouTube video player" 
-      frameborder="0" 
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-      allowfullscreen>
-
-      </iframe>
+      <Card.Img src=".\assets\merryGnomeYellow.jpg" alt="TheGoods"></Card.Img>
       </Card >
       
       
