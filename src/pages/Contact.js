@@ -20,8 +20,8 @@ function Contact() {
         <Card className="aboutBack">
           <Card.Body className="text">
             <div className="boxer">
-              <h3>Merchandise:</h3>
-              <h4 className="fontSize">merch@fortressofthebear.com</h4>
+              <h3>Facebook/Instagram:</h3>
+              <h4 className="fontSize">@merrylittlebaker</h4>
             </div>
           </Card.Body>
         </Card>
@@ -29,8 +29,8 @@ function Contact() {
         <Card className="aboutBack">
           <Card.Body className="text">
             <div className="boxer">
-              <h3>Touring/Booking:</h3>
-              <h4 className="fontSize">booking@fortressofthebear.com</h4>
+              <h3>Email:</h3>
+              <h4 className="fontSize">MerryLittleBakerisJenn@gmail.com</h4>
             </div>
           </Card.Body>
         </Card>
@@ -38,8 +38,8 @@ function Contact() {
         <Card className="aboutBack">
           <Card.Body className="text">
             <div className="boxer">
-              <h3>All Other Inquiries:</h3>
-              <h4 className="fontSize">info@fortressofthebear.com</h4>
+              <h3>Phone:</h3>
+              <h4 className="fontSize">425-308-1663</h4>
             </div>
           </Card.Body>
         </Card>
