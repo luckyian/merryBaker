@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/merryBaker/static/css/main.6f82a08a.chunk.css",
-    "main.js": "/merryBaker/static/js/main.3de00951.chunk.js",
-    "main.js.map": "/merryBaker/static/js/main.3de00951.chunk.js.map",
+    "main.css": "/merryBaker/static/css/main.8ccbe7e3.chunk.css",
+    "main.js": "/merryBaker/static/js/main.de1ea273.chunk.js",
+    "main.js.map": "/merryBaker/static/js/main.de1ea273.chunk.js.map",
     "runtime-main.js": "/merryBaker/static/js/runtime-main.4deb57ed.js",
     "runtime-main.js.map": "/merryBaker/static/js/runtime-main.4deb57ed.js.map",
     "static/css/2.c4e73993.chunk.css": "/merryBaker/static/css/2.c4e73993.chunk.css",
-    "static/js/2.011f19bd.chunk.js": "/merryBaker/static/js/2.011f19bd.chunk.js",
-    "static/js/2.011f19bd.chunk.js.map": "/merryBaker/static/js/2.011f19bd.chunk.js.map",
+    "static/js/2.7ec7aaa8.chunk.js": "/merryBaker/static/js/2.7ec7aaa8.chunk.js",
+    "static/js/2.7ec7aaa8.chunk.js.map": "/merryBaker/static/js/2.7ec7aaa8.chunk.js.map",
     "index.html": "/merryBaker/index.html",
     "static/css/2.c4e73993.chunk.css.map": "/merryBaker/static/css/2.c4e73993.chunk.css.map",
-    "static/css/main.6f82a08a.chunk.css.map": "/merryBaker/static/css/main.6f82a08a.chunk.css.map",
-    "static/js/2.011f19bd.chunk.js.LICENSE.txt": "/merryBaker/static/js/2.011f19bd.chunk.js.LICENSE.txt"
+    "static/css/main.8ccbe7e3.chunk.css.map": "/merryBaker/static/css/main.8ccbe7e3.chunk.css.map",
+    "static/js/2.7ec7aaa8.chunk.js.LICENSE.txt": "/merryBaker/static/js/2.7ec7aaa8.chunk.js.LICENSE.txt",
+    "static/media/menu.f136a481.jpeg": "/merryBaker/static/media/menu.f136a481.jpeg",
+    "static/media/merryGnomeClose.53481d29.jpg": "/merryBaker/static/media/merryGnomeClose.53481d29.jpg",
+    "static/media/merryGnomeCookie.8f58698f.jpg": "/merryBaker/static/media/merryGnomeCookie.8f58698f.jpg",
+    "static/media/merryGnomeFish.6296ad73.jpg": "/merryBaker/static/media/merryGnomeFish.6296ad73.jpg",
+    "static/media/merryGnomeGreen.66fedf78.jpg": "/merryBaker/static/media/merryGnomeGreen.66fedf78.jpg",
+    "static/media/merryGnomePig.33a40c87.jpg": "/merryBaker/static/media/merryGnomePig.33a40c87.jpg",
+    "static/media/merryLogo2.87945c8b.jpg": "/merryBaker/static/media/merryLogo2.87945c8b.jpg",
+    "static/media/merryOreoSundae.0a3249c3.jpg": "/merryBaker/static/media/merryOreoSundae.0a3249c3.jpg",
+    "static/media/merryPeachCobbler.6aea816a.jpg": "/merryBaker/static/media/merryPeachCobbler.6aea816a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4deb57ed.js",
     "static/css/2.c4e73993.chunk.css",
-    "static/js/2.011f19bd.chunk.js",
-    "static/css/main.6f82a08a.chunk.css",
-    "static/js/main.3de00951.chunk.js"
+    "static/js/2.7ec7aaa8.chunk.js",
+    "static/css/main.8ccbe7e3.chunk.css",
+    "static/js/main.de1ea273.chunk.js"
   ]
 }
