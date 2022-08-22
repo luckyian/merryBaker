@@ -15,7 +15,7 @@ function Contact() {
 
     <div>
       <div className="mt-5">
-        <h1 className="text2">Contact</h1>
+        <h1 className="text2">Order</h1>
         <Menu />
 
         <Card className="aboutBack">
