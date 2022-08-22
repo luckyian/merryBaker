@@ -2,6 +2,8 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
+import frontpage from "./merryGnomeGreen.jpg"
+import ending from "./merryGnomePig.jpg"
 
 
 function Goods() {
@@ -13,7 +15,7 @@ function Goods() {
         <Card.Body className="text">
           <Card.Title className="tourTitle">Merry Goods</Card.Title>
           <div >
-            <Card.Img src=".\assets\merryGnomeGreen.jpg" alt="TheGoods"></Card.Img>
+            <Card.Img src={frontpage} alt="TheGoods"></Card.Img>
           </div>
           <div>
          <p className="tourWords">
@@ -23,7 +25,7 @@ function Goods() {
          <h1>Cupcakes</h1>
          <br></br>
          <h4>
-          <Card.Img src=".\assets\merryGnomePig.jpg" alt="Piggy"></Card.Img> 
+          <Card.Img src={ending} alt="Piggy"></Card.Img> 
          </h4>
          
          <br></br>
