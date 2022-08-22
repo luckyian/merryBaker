@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import "./style.css";
 import Logo from "../components/Subcomponents/Logo";
 import Card from 'react-bootstrap/Card';
+import Menu from '../components/Subcomponents/Menu';
 
 
 function Contact() {
@@ -15,7 +16,7 @@ function Contact() {
     <div>
       <div className="mt-5">
         <h1 className="text2">Contact</h1>
-        <Logo />
+        <Menu />
 
         <Card className="aboutBack">
           <Card.Body className="text">

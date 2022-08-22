@@ -2,10 +2,10 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
-import logo from "./merryLogo2.jpg";
+import menu from "./menu.jpeg";
 
 
-function Logo() {
+function Menu() {
 
 
 
@@ -14,10 +14,10 @@ function Logo() {
             <Card.Body>
                 
                 <div >
-                    <Card.Img src={logo}  alt="MerryLittleBaker"></Card.Img>
+                    <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img>
                 </div>
             </Card.Body>
         </Card>
     )
 }
-export default Logo;
+export default Menu;
