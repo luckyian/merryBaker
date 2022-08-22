@@ -18,7 +18,7 @@ function Navibar() {
                 <Navbar.Collapse id="navbarNavAltMarkup">
                     <Nav>
                         <Nav.Link className="text" href="/#/index" >Home</Nav.Link>
-                        <Nav.Link className="text" href="/#/videos" >Goods</Nav.Link>
+                        <Nav.Link className="text" href="/#/cakes" >Goods</Nav.Link>
                         {/* <Nav.Link href="/fortressofthebear/#/store" >Store</Nav.Link> */}
                         <Nav.Link className="text" href="/#/contact" >Order</Nav.Link>
                         {/* <Nav.Link href="/fortressofthebear/#/login" >Join</Nav.Link> */}
