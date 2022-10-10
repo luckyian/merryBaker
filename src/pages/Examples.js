@@ -8,7 +8,7 @@ import example3 from "./merryGnomeFish.jpg";
 import example4 from "./merryOreoSundae.jpg";
 import example5 from "./merryPeachCobbler.jpg";
 
-function Examples() {
+function Cupcakes() {
 
 
   return (
@@ -53,4 +53,4 @@ function Examples() {
 
 }
 
-export default Examples;
+export default Cupcakes;
