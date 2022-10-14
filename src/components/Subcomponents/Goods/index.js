@@ -2,8 +2,8 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
-import frontpage from "./merryGnomeGreen.jpg"
-import ending from "./merryGnomePig.jpg"
+import frontpage from "./cake1.jpeg"
+import ending from "./merryGnomeClose.jpg"
 
 
 function Goods() {
