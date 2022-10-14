@@ -22,25 +22,25 @@ function Cupcakes() {
 
       </Card>
       <br/>
-      <Card className="video-responsive">
+      <Card>
 
       <Card.Img src={example4} alt="TheGoods"></Card.Img>
 
       </Card >
 <br/>
-      <Card className="video-responsive">
+      <Card>
 
       <Card.Img src={example2} alt="TheGoods"></Card.Img>
       </Card >
       <br/>
-      <Card className="video-responsive">
+      <Card>
 
       
       <Card.Img src={example3} alt="TheGoods"></Card.Img>
       
       </Card >
       <br/>
-      <Card className="video-responsive">
+      <Card>
 
       <Card.Img src={example5} alt="TheGoods"></Card.Img>
       </Card >
