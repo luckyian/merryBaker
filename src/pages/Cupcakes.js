@@ -15,6 +15,8 @@ function Cupcakes() {
 
     <Container>
       <br/>
+      <h1 className="cupcakes">Cupcakes</h1>
+      <br/>
       <Card>
 
 
