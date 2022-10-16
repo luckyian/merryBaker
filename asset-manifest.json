@@ -1,32 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1ccad93.chunk.css",
-    "main.js": "/static/js/main.7049a83f.chunk.js",
-    "main.js.map": "/static/js/main.7049a83f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c14a7a7b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c14a7a7b.js.map",
-    "static/css/2.c4e73993.chunk.css": "/static/css/2.c4e73993.chunk.css",
-    "static/js/2.1153e18e.chunk.js": "/static/js/2.1153e18e.chunk.js",
-    "static/js/2.1153e18e.chunk.js.map": "/static/js/2.1153e18e.chunk.js.map",
+    "main.css": "/static/css/main.58a8b486.css",
+    "main.js": "/static/js/main.d4fc7881.js",
+    "static/media/merryOreoSundae.jpg": "/static/media/merryOreoSundae.0a3249c39c0f8785dc13.jpg",
+    "static/media/cake2.jpeg": "/static/media/cake2.b95f790b88f79d38deb0.jpeg",
+    "static/media/merryPeachCobbler.jpg": "/static/media/merryPeachCobbler.6aea816a2bc7b999407b.jpg",
+    "static/media/cake5.jpeg": "/static/media/cake5.4597dc1961d86fc4fafb.jpeg",
+    "static/media/cake4.jpeg": "/static/media/cake4.8b10c08c8e382a029cd5.jpeg",
+    "static/media/cake3.jpeg": "/static/media/cake3.6f88bd64f4e09059a62d.jpeg",
+    "static/media/cake1.jpeg": "/static/media/cake1.353333efbed352d74431.jpeg",
+    "static/media/merryGnomeCookie.jpg": "/static/media/merryGnomeCookie.8f58698fe2e3924f5fb3.jpg",
+    "static/media/merryGnomeFish.jpg": "/static/media/merryGnomeFish.6296ad73050f6ad2ff9c.jpg",
+    "static/media/merryGnomeClose.jpg": "/static/media/merryGnomeClose.53481d29fed05be48f75.jpg",
+    "static/media/merryGnomeLogo.jpg": "/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
+    "static/media/menu.jpeg": "/static/media/menu.f136a481b82cbf3bfbd8.jpeg",
     "index.html": "/index.html",
-    "static/css/2.c4e73993.chunk.css.map": "/static/css/2.c4e73993.chunk.css.map",
-    "static/css/main.e1ccad93.chunk.css.map": "/static/css/main.e1ccad93.chunk.css.map",
-    "static/js/2.1153e18e.chunk.js.LICENSE.txt": "/static/js/2.1153e18e.chunk.js.LICENSE.txt",
-    "static/media/menu.f136a481.jpeg": "/static/media/menu.f136a481.jpeg",
-    "static/media/merryGnomeClose.53481d29.jpg": "/static/media/merryGnomeClose.53481d29.jpg",
-    "static/media/merryGnomeCookie.8f58698f.jpg": "/static/media/merryGnomeCookie.8f58698f.jpg",
-    "static/media/merryGnomeFish.6296ad73.jpg": "/static/media/merryGnomeFish.6296ad73.jpg",
-    "static/media/merryGnomeGreen.66fedf78.jpg": "/static/media/merryGnomeGreen.66fedf78.jpg",
-    "static/media/merryGnomePig.33a40c87.jpg": "/static/media/merryGnomePig.33a40c87.jpg",
-    "static/media/merryLogo2.87945c8b.jpg": "/static/media/merryLogo2.87945c8b.jpg",
-    "static/media/merryOreoSundae.0a3249c3.jpg": "/static/media/merryOreoSundae.0a3249c3.jpg",
-    "static/media/merryPeachCobbler.6aea816a.jpg": "/static/media/merryPeachCobbler.6aea816a.jpg"
+    "main.58a8b486.css.map": "/static/css/main.58a8b486.css.map",
+    "main.d4fc7881.js.map": "/static/js/main.d4fc7881.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c14a7a7b.js",
-    "static/css/2.c4e73993.chunk.css",
-    "static/js/2.1153e18e.chunk.js",
-    "static/css/main.e1ccad93.chunk.css",
-    "static/js/main.7049a83f.chunk.js"
+    "static/css/main.58a8b486.css",
+    "static/js/main.d4fc7881.js"
   ]
 }
