@@ -13,8 +13,9 @@ function Goods() {
     return (
         <Card className="aboutBack">
         <Card.Body className="text">
-          <h1>Cupcakes</h1>
-          <div >
+          
+          <div className="tourWords">
+          <h1>Cakes</h1>
             <Card.Img src={frontpage} alt="TheGoods"></Card.Img>
           </div>
           <div>
