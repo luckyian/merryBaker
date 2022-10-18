@@ -29,9 +29,13 @@ function Contact() {
         <br />
         <Card className="aboutBack">
           <Card.Body className="text">
-            <div className="boxer">
-              <h3>Email:</h3>
-              <h4 className="fontSize">MerryLittleBakerisJenn@gmail.com</h4>
+          <div className="boxer">
+              <h3>Contact:</h3>
+              <h4 className="fontSize">Order:</h4>
+              <h4 className="fontSize">Order@MerryLittleBaker.com</h4>
+              <br></br>
+              <h4 className="fontSize">Info:</h4>
+              <h4 className="fontSize">Info@MerryLittleBaker.com</h4>
             </div>
           </Card.Body>
         </Card>
