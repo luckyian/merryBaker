@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.58a8b486.css",
-    "main.js": "/static/js/main.d4fc7881.js",
+    "main.css": "/static/css/main.e189fde4.css",
+    "main.js": "/static/js/main.ea4ab6cb.js",
     "static/media/merryOreoSundae.jpg": "/static/media/merryOreoSundae.0a3249c39c0f8785dc13.jpg",
     "static/media/cake2.jpeg": "/static/media/cake2.b95f790b88f79d38deb0.jpeg",
     "static/media/merryPeachCobbler.jpg": "/static/media/merryPeachCobbler.6aea816a2bc7b999407b.jpg",
@@ -15,11 +15,11 @@
     "static/media/merryGnomeLogo.jpg": "/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
     "static/media/menu.jpeg": "/static/media/menu.f136a481b82cbf3bfbd8.jpeg",
     "index.html": "/index.html",
-    "main.58a8b486.css.map": "/static/css/main.58a8b486.css.map",
-    "main.d4fc7881.js.map": "/static/js/main.d4fc7881.js.map"
+    "main.e189fde4.css.map": "/static/css/main.e189fde4.css.map",
+    "main.ea4ab6cb.js.map": "/static/js/main.ea4ab6cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.58a8b486.css",
-    "static/js/main.d4fc7881.js"
+    "static/css/main.e189fde4.css",
+    "static/js/main.ea4ab6cb.js"
   ]
 }
