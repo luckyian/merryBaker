@@ -1,5 +1,6 @@
 nav.navbar.navbar-default {
   margin-bottom: 0;
+  
 }
 
 .navibar {
@@ -13,6 +14,7 @@ nav.navbar.navbar-default {
 
 .text{
   color: #00050d !important;
-  font-family: 'Raleway', sans-serif;
-  font-size: 20px;
+  font-family: 'Carattere';
+  font-weight: 600;
+  font-size: 30px;
 }

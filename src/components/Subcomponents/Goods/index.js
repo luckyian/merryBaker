@@ -15,7 +15,7 @@ function Goods() {
         <Card.Body className="text">
           
           <div className="tourWords">
-          <h1>Cakes</h1>
+          <h1 className="tourWords">Cakes</h1>
             <Card.Img src={frontpage} alt="TheGoods"></Card.Img>
           </div>
           <div>
@@ -23,7 +23,7 @@ function Goods() {
 
            {/* <h3>TBD</h3> */}
            {/* <h3>Check Back Soon for Upcoming Shows</h3> */}
-         <h1>Cupcakes</h1>
+         <h1 className="tourWords">Cupcakes</h1>
          <br></br>
          <h4>
           <Card.Img src={ending} alt="Piggy"></Card.Img> 

@@ -16,6 +16,9 @@
 
 .tourWords{
     text-align: center;
+    font-family: 'Carattere', bold;
+    font-size: 80px;
+    font-weight: 600;
 }
 .tourTitle{
     text-align: center;

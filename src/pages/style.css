@@ -25,23 +25,35 @@
     position: absolute;
   }
   .text{
-    color: #f7e290;
-    font-family: 'Raleway', sans-serif;
+    color: #00050d;
+    font-family: 'Carattere', bold;
+    font-weight: 600;
+    font-size: 75px;
   }
   .text2{
-    color: #282c34;
+    color: #00050d;
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Carattere', bold;
+    font-weight: 600;
+    font-size: 75px;
   }
+
   .cakes{
     text-align: center;
+    font-family: 'Carattere', bold;
+  font-size: 75px;
+  font-weight: 600;
 }
 
 .cupcakes{
   text-align: center;
+  font-family: 'Carattere', bold;
+  font-size: 75px;
+  font-weight: 600;
 }
   .fontSize{
-    font-size:20px;
+    font-size:40px;
+    font-weight: 600;
   }
   .boxer{
   
