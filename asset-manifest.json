@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6bff732d.css",
-    "main.js": "/static/js/main.521033fb.js",
+    "main.js": "/static/js/main.a3c3fa17.js",
     "static/media/cake2.jpeg": "/static/media/cake2.b95f790b88f79d38deb0.jpeg",
     "static/media/cupcake2.jpeg": "/static/media/cupcake2.482e1b70916c00dd9781.jpeg",
     "static/media/cupcake1.jpeg": "/static/media/cupcake1.d8b5d467c65b4a378ad2.jpeg",
@@ -11,6 +11,7 @@
     "static/media/cupcake5.jpeg": "/static/media/cupcake5.7d7fc8a90ef043c81fd7.jpeg",
     "static/media/cake3.jpeg": "/static/media/cake3.6f88bd64f4e09059a62d.jpeg",
     "static/media/cake1.jpeg": "/static/media/cake1.353333efbed352d74431.jpeg",
+    "static/media/menu.jpeg": "/static/media/menu.b97538caebdf908d281d.jpeg",
     "static/media/cupcake7.jpeg": "/static/media/cupcake7.eab5cd037c55b8d029ed.jpeg",
     "static/media/cupcake4.jpeg": "/static/media/cupcake4.beb9cbd44509db29e6f1.jpeg",
     "static/media/cupcake9.jpeg": "/static/media/cupcake9.9b42762d9e3d271784f8.jpeg",
@@ -20,15 +21,14 @@
     "static/media/cupcake13.jpeg": "/static/media/cupcake13.2f6179da76ae607267ea.jpeg",
     "static/media/cupcake11.jpeg": "/static/media/cupcake11.37339652198da4f80e2f.jpeg",
     "static/media/merryGnomeLogo.jpg": "/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
-    "static/media/menu.jpeg": "/static/media/menu.f136a481b82cbf3bfbd8.jpeg",
     "static/media/cupcake10.jpeg": "/static/media/cupcake10.e112373e8ad12e521883.jpeg",
     "static/media/cupcake8.jpeg": "/static/media/cupcake8.80e291cd083d2890b7cf.jpeg",
     "index.html": "/index.html",
     "main.6bff732d.css.map": "/static/css/main.6bff732d.css.map",
-    "main.521033fb.js.map": "/static/js/main.521033fb.js.map"
+    "main.a3c3fa17.js.map": "/static/js/main.a3c3fa17.js.map"
   },
   "entrypoints": [
     "static/css/main.6bff732d.css",
-    "static/js/main.521033fb.js"
+    "static/js/main.a3c3fa17.js"
   ]
 }
