@@ -2,11 +2,22 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
-import example1 from "./cake1.jpeg";
-import example2 from "./cake2.jpeg";
-import example3 from "./cake3.jpeg";
-import example4 from "./cake4.jpeg";
-import example5 from "./cake5.jpeg";
+import example1 from "./baseballCake.jpeg";
+import example2 from "./berryCake.jpeg";
+import example3 from "./chocolateCandyCake.jpeg";
+import example4 from "./cowCake.jpeg";
+import example5 from "./fallFlowersCake.jpeg";
+import example6 from "./flowersCake.jpeg";
+import example7 from "./horseCake.jpeg";
+import example8 from "./killerCake.jpeg";
+import example9 from "./leafCake.jpeg";
+import example10 from "./leafCake2.jpeg";
+import example11 from "./liloStitchCake.jpeg";
+import example12 from "./loveCake.jpeg";
+import example13 from "./roseCake.jpeg";
+import example14 from "./spiderWebCake.jpeg";
+import example15 from "./spongeBobCake.jpeg";
+import example16 from "./truckCake.jpeg";
 
 function Cakes() {
 
@@ -45,8 +56,80 @@ function Cakes() {
       <Card>
 
       <Card.Img src={example5} alt="TheGoods"></Card.Img>
+
       </Card >
+      <br/>
+      <Card>
+
+
+      <Card.Img src={example6} alt="TheGoods"></Card.Img>
+
+      </Card>
+      <br/>
+      <Card>
+
+      <Card.Img src={example7} alt="TheGoods"></Card.Img>
+
+      </Card >
+<br/>
+      <Card>
+
+      <Card.Img src={example8} alt="TheGoods"></Card.Img>
+      </Card >
+      <br/>
+      <br/>
+      <Card>
+
+
+      <Card.Img src={example9} alt="TheGoods"></Card.Img>
+
+      </Card>
+      <br/>
+      <Card>
+
+      <Card.Img src={example10} alt="TheGoods"></Card.Img>
+
+      </Card >
+<br/>
+      <Card>
+
+      <Card.Img src={example11} alt="TheGoods"></Card.Img>
+      </Card >
+      <br/>
       
+      <Card>
+
+
+      <Card.Img src={example12} alt="TheGoods"></Card.Img>
+
+      </Card>
+      <br/>
+      <Card>
+
+      <Card.Img src={example13} alt="TheGoods"></Card.Img>
+
+      </Card >
+<br/>
+      <Card>
+
+      <Card.Img src={example14} alt="TheGoods"></Card.Img>
+      </Card >
+      <br/>
+    
+      <Card>
+
+
+      <Card.Img src={example15} alt="TheGoods"></Card.Img>
+
+      </Card>
+      <br/>
+      <Card>
+
+      <Card.Img src={example16} alt="TheGoods"></Card.Img>
+
+      </Card >
+<br/>
+    
       <h1 className="text3">I do NOT ship</h1>
 
     </Container >
