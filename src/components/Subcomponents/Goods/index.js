@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
 import frontpage from "./cake1.jpeg"
-import ending from "./merryGnomeClose.jpg"
+import ending from "./merryLogo2.jpeg"
 
 
 function Goods() {
