@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.6bff732d.css",
-    "main.js": "/static/js/main.9263be4d.js",
+    "main.js": "/static/js/main.9e3c2d7a.js",
     "static/media/penguinCupCake.jpeg": "/static/media/penguinCupCake.91aa05587da1d199322f.jpeg",
+    "static/media/merryLogo2.jpeg": "/static/media/merryLogo2.7461927f54cd02e978e0.jpeg",
     "static/media/truckCupCake.jpeg": "/static/media/truckCupCake.47edaa55ee7acd15a64d.jpeg",
     "static/media/cupCake8.jpeg": "/static/media/cupCake8.a061bbf341d47a81c221.jpeg",
     "static/media/cupCake1.jpeg": "/static/media/cupCake1.2309f38beae747ee4f44.jpeg",
@@ -34,15 +35,14 @@
     "static/media/menu.jpeg": "/static/media/menu.dbfb4b47886f31e328c0.jpeg",
     "static/media/cake1.jpeg": "/static/media/cake1.353333efbed352d74431.jpeg",
     "static/media/cupcake4.jpeg": "/static/media/cupcake4.beb9cbd44509db29e6f1.jpeg",
-    "static/media/merryGnomeClose.jpg": "/static/media/merryGnomeClose.53481d29fed05be48f75.jpg",
     "static/media/merryGnomeLogo.jpg": "/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
     "static/media/barbieCupCake.jpeg": "/static/media/barbieCupCake.ce07b3c4148620f001ef.jpeg",
     "index.html": "/index.html",
     "main.6bff732d.css.map": "/static/css/main.6bff732d.css.map",
-    "main.9263be4d.js.map": "/static/js/main.9263be4d.js.map"
+    "main.9e3c2d7a.js.map": "/static/js/main.9e3c2d7a.js.map"
   },
   "entrypoints": [
     "static/css/main.6bff732d.css",
-    "static/js/main.9263be4d.js"
+    "static/js/main.9e3c2d7a.js"
   ]
 }
