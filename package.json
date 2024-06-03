@@ -2,7 +2,7 @@
   "name": "merrybaker",
   "version": "3.0.1",
   "private": true,
-  "homepage": "https://merrylittlebaker.com/",
+  "homepage": "https://luckyian.github.io/merryBaker/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
