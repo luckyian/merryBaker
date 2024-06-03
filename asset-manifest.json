@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/merryBaker/static/css/main.6bff732d.css",
-    "main.js": "/merryBaker/static/js/main.09273a24.js",
+    "main.css": "/merryBaker/static/css/main.4bd6cc4d.css",
+    "main.js": "/merryBaker/static/js/main.f013608a.js",
     "static/media/penguinCupCake.jpeg": "/merryBaker/static/media/penguinCupCake.91aa05587da1d199322f.jpeg",
     "static/media/merryLogo2.jpeg": "/merryBaker/static/media/merryLogo2.7461927f54cd02e978e0.jpeg",
     "static/media/truckCupCake.jpeg": "/merryBaker/static/media/truckCupCake.47edaa55ee7acd15a64d.jpeg",
@@ -38,11 +38,11 @@
     "static/media/merryGnomeLogo.jpg": "/merryBaker/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
     "static/media/barbieCupCake.jpeg": "/merryBaker/static/media/barbieCupCake.ce07b3c4148620f001ef.jpeg",
     "index.html": "/merryBaker/index.html",
-    "main.6bff732d.css.map": "/merryBaker/static/css/main.6bff732d.css.map",
-    "main.09273a24.js.map": "/merryBaker/static/js/main.09273a24.js.map"
+    "main.4bd6cc4d.css.map": "/merryBaker/static/css/main.4bd6cc4d.css.map",
+    "main.f013608a.js.map": "/merryBaker/static/js/main.f013608a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bff732d.css",
-    "static/js/main.09273a24.js"
+    "static/css/main.4bd6cc4d.css",
+    "static/js/main.f013608a.js"
   ]
 }
