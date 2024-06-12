@@ -10,14 +10,46 @@ function Menu() {
 
 
     return (
+        <div>
         <Card className="aboutBack">
             <Card.Body>
                 
                 <div >
-                    <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img>
+                    Cakes
+                    {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
             </Card.Body>
         </Card>
+        <Card className="aboutBack">
+            <Card.Body>
+                
+                <div >
+                    Cupcakes
+                    {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
+                </div>
+            </Card.Body>
+        </Card>
+        <Card className="aboutBack">
+            <Card.Body>
+                
+                <div >
+                    Mini-Cup Cakes
+                    {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
+                </div>
+            </Card.Body>
+        </Card>
+        <Card className="aboutBack">
+            <Card.Body>
+                
+                <div >
+                    Cake Jars
+                    {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
+                </div>
+            </Card.Body>
+        </Card>
+        </div>
+        
+        
     )
 }
 export default Menu;
