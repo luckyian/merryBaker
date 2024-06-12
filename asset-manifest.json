@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/merryBaker/static/css/main.4bd6cc4d.css",
-    "main.js": "/merryBaker/static/js/main.48717680.js",
+    "main.js": "/merryBaker/static/js/main.82daa501.js",
     "static/media/penguinCupCake.jpeg": "/merryBaker/static/media/penguinCupCake.91aa05587da1d199322f.jpeg",
     "static/media/merryLogo2.jpeg": "/merryBaker/static/media/merryLogo2.7461927f54cd02e978e0.jpeg",
     "static/media/truckCupCake.jpeg": "/merryBaker/static/media/truckCupCake.47edaa55ee7acd15a64d.jpeg",
@@ -33,16 +33,16 @@
     "static/media/flowersCake.jpeg": "/merryBaker/static/media/flowersCake.c41dd52fe5cab37ada85.jpeg",
     "static/media/liloStitchCake.jpeg": "/merryBaker/static/media/liloStitchCake.7c044d9fbf715107b1c4.jpeg",
     "static/media/menu.jpeg": "/merryBaker/static/media/menu.dbfb4b47886f31e328c0.jpeg",
+    "static/media/logoNew.jpeg": "/merryBaker/static/media/logoNew.98f466fc392e53dea45e.jpeg",
     "static/media/cake1.jpeg": "/merryBaker/static/media/cake1.353333efbed352d74431.jpeg",
     "static/media/cupcake4.jpeg": "/merryBaker/static/media/cupcake4.beb9cbd44509db29e6f1.jpeg",
-    "static/media/merryGnomeLogo.jpg": "/merryBaker/static/media/merryGnomeLogo.66fedf78295b546bd3bb.jpg",
     "static/media/barbieCupCake.jpeg": "/merryBaker/static/media/barbieCupCake.ce07b3c4148620f001ef.jpeg",
     "index.html": "/merryBaker/index.html",
     "main.4bd6cc4d.css.map": "/merryBaker/static/css/main.4bd6cc4d.css.map",
-    "main.48717680.js.map": "/merryBaker/static/js/main.48717680.js.map"
+    "main.82daa501.js.map": "/merryBaker/static/js/main.82daa501.js.map"
   },
   "entrypoints": [
     "static/css/main.4bd6cc4d.css",
-    "static/js/main.48717680.js"
+    "static/js/main.82daa501.js"
   ]
 }
