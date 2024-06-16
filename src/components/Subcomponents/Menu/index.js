@@ -14,36 +14,75 @@ function Menu() {
         <Card className="aboutBack">
             <Card.Body>
                 
-                <div >
+                <div className="tourTitle" >
                     Cakes
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
+                <div className="menuContent">
+                6" Cake   $55
+                <br/>
+                8" Cake   $65
+                <br/>
+                10" Cake  $75
+                </div>
+                <br/>
             </Card.Body>
         </Card>
         <Card className="aboutBack">
             <Card.Body>
                 
-                <div >
+                <div className="tourTitle">
                     Cupcakes
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
-            </Card.Body>
-        </Card>
-        <Card className="aboutBack">
-            <Card.Body>
-                
-                <div >
-                    Mini-Cup Cakes
-                    {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
+                <div className="menuContent">
+                Minimum Order = One Dozen
+                <br></br>
+                $36 per dozen
                 </div>
             </Card.Body>
         </Card>
         <Card className="aboutBack">
             <Card.Body>
                 
-                <div >
-                    Cake Jars
+                <div className="tourTitle" >
+                   Macarons
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
+                </div>
+                <div className="menuContent">
+                Minimum Order = One Dozen
+                <br></br>
+                $45 per dozen
+                </div>
+            </Card.Body>
+        </Card>
+        <Card className="aboutBack">
+            <Card.Body>
+                
+                <div className="tourTitle">
+                    Cake Pops
+                    {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
+                </div>
+                <div className="menuContent">
+                Minimum Order = One Dozen
+                <br></br>
+                Small $36 per dozen
+                <br></br>
+                Large $54 per dozen
+                </div>
+            </Card.Body>
+        </Card>
+        <Card className="aboutBack">
+            <Card.Body>
+                
+                <div className="tourTitle" >
+                    Sugar Cookies
+                    {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
+                </div>
+                <div className="menuContent">
+                Minimum Order = One Dozen
+                <br></br>
+                $36 per dozen
                 </div>
             </Card.Body>
         </Card>
