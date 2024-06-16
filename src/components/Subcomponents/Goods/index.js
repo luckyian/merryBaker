@@ -14,7 +14,7 @@ function Goods() {
         <Card className="aboutBack">
         <Card.Body className="text">
           
-          <div className="tourWords">
+          <div className="tourWords2">
           <h1 className="tourWords">Cakes</h1>
             <Card.Img src={frontpage} alt="TheGoods"></Card.Img>
           </div>
