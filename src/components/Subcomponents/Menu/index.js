@@ -2,7 +2,8 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
-import menu from "./menu.jpeg";
+import macrons from "./macrons.jpeg";
+import { CardImg } from "react-bootstrap";
 
 
 function Menu() {
@@ -18,6 +19,7 @@ function Menu() {
                     Cakes
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
+                <CardImg></CardImg>
                 <div className="menuContent">
                 6" Cake   $55
                 <br/>
