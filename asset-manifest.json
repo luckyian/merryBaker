@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/merryBaker/static/css/main.4bd6cc4d.css",
-    "main.js": "/merryBaker/static/js/main.82daa501.js",
+    "main.css": "/merryBaker/static/css/main.534aeced.css",
+    "main.js": "/merryBaker/static/js/main.91a02c8d.js",
+    "static/media/menuCupCake.jpg": "/merryBaker/static/media/menuCupCake.e6cd9a159c58ab3ca10e.jpg",
+    "static/media/roseCake2.jpg": "/merryBaker/static/media/roseCake2.2e4e7970b7aa0a5683dd.jpg",
     "static/media/penguinCupCake.jpeg": "/merryBaker/static/media/penguinCupCake.91aa05587da1d199322f.jpeg",
     "static/media/merryLogo2.jpeg": "/merryBaker/static/media/merryLogo2.7461927f54cd02e978e0.jpeg",
     "static/media/truckCupCake.jpeg": "/merryBaker/static/media/truckCupCake.47edaa55ee7acd15a64d.jpeg",
@@ -18,6 +20,7 @@
     "static/media/chocolateCandyCake.jpeg": "/merryBaker/static/media/chocolateCandyCake.f5cd600bd710a8f4207f.jpeg",
     "static/media/cookieCupCake.jpeg": "/merryBaker/static/media/cookieCupCake.f4447f222f148125a861.jpeg",
     "static/media/cupCake3.jpeg": "/merryBaker/static/media/cupCake3.1fb5ef7a0eb6f7fb2280.jpeg",
+    "static/media/macrons3.jpg": "/merryBaker/static/media/macrons3.b9aa4ae90ca68559667d.jpg",
     "static/media/berryCake.jpeg": "/merryBaker/static/media/berryCake.5d9feff56a351a4d24ea.jpeg",
     "static/media/truckCake.jpeg": "/merryBaker/static/media/truckCake.9043e88df47eda2a52b4.jpeg",
     "static/media/cupCake6.jpeg": "/merryBaker/static/media/cupCake6.6aa1951a4e69a63fac5b.jpeg",
@@ -32,17 +35,16 @@
     "static/media/cupCake2.jpeg": "/merryBaker/static/media/cupCake2.b1462286043b518017a1.jpeg",
     "static/media/flowersCake.jpeg": "/merryBaker/static/media/flowersCake.c41dd52fe5cab37ada85.jpeg",
     "static/media/liloStitchCake.jpeg": "/merryBaker/static/media/liloStitchCake.7c044d9fbf715107b1c4.jpeg",
-    "static/media/menu.jpeg": "/merryBaker/static/media/menu.dbfb4b47886f31e328c0.jpeg",
     "static/media/logoNew.jpeg": "/merryBaker/static/media/logoNew.98f466fc392e53dea45e.jpeg",
     "static/media/cake1.jpeg": "/merryBaker/static/media/cake1.353333efbed352d74431.jpeg",
     "static/media/cupcake4.jpeg": "/merryBaker/static/media/cupcake4.beb9cbd44509db29e6f1.jpeg",
     "static/media/barbieCupCake.jpeg": "/merryBaker/static/media/barbieCupCake.ce07b3c4148620f001ef.jpeg",
     "index.html": "/merryBaker/index.html",
-    "main.4bd6cc4d.css.map": "/merryBaker/static/css/main.4bd6cc4d.css.map",
-    "main.82daa501.js.map": "/merryBaker/static/js/main.82daa501.js.map"
+    "main.534aeced.css.map": "/merryBaker/static/css/main.534aeced.css.map",
+    "main.91a02c8d.js.map": "/merryBaker/static/js/main.91a02c8d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bd6cc4d.css",
-    "static/js/main.82daa501.js"
+    "static/css/main.534aeced.css",
+    "static/js/main.91a02c8d.js"
   ]
 }
