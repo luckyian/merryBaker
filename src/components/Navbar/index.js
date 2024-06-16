@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav';
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Navibar() {
     return (
-        <Navbar expand="md" className="navibar text" variant="dark" sticky="top">
+        <Navbar expand="lg" className="navibar text" variant="dark" sticky="top">
             <div className="col-md-8">
                 <Navbar.Brand className="text" href="#"  >Merry Little Baker</Navbar.Brand>
                 <Navbar.Toggle  className="float-right" type="button" data-toggle="collapse"
