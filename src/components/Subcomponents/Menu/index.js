@@ -2,7 +2,9 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
-import macrons from "./macrons.jpeg";
+import cake from "./roseCake2.jpg"
+import macrons2 from "./macrons3.jpg";
+import cupcake from "./menuCupCake.jpg";
 import { CardImg } from "react-bootstrap";
 
 
@@ -13,13 +15,14 @@ function Menu() {
     return (
         <div>
         <Card className="aboutBack">
+        
             <Card.Body>
                 
                 <div className="tourTitle" >
                     Cakes
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
-                <CardImg></CardImg>
+                <CardImg src={cake} ></CardImg>
                 <div className="menuContent">
                 6" Cake   $55
                 <br/>
@@ -37,6 +40,7 @@ function Menu() {
                     Cupcakes
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
+                <CardImg src={cupcake}></CardImg>
                 <div className="menuContent">
                 Minimum Order = One Dozen
                 <br></br>
@@ -51,6 +55,7 @@ function Menu() {
                    Macarons
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
+                <CardImg src={macrons2}></CardImg>
                 <div className="menuContent">
                 Minimum Order = One Dozen
                 <br></br>
