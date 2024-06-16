@@ -14,8 +14,10 @@ function App() {
   return (
     <Router>
       <div className="mystyle">
+      
         <Navibar />
         <Wrapper>
+        
 
 
           <Route exact path="/" component={Index} />
