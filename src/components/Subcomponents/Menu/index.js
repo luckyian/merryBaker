@@ -5,6 +5,8 @@ import "./style.css";
 import cake from "./roseCake2.jpg"
 import macrons2 from "./macrons3.jpg";
 import cupcake from "./menuCupCake.jpg";
+import cakePop from "./cakepopmenu.jpg"
+import sugarCookie from "./sugarcookiesmenu.jpg"
 import { CardImg } from "react-bootstrap";
 
 
@@ -70,6 +72,7 @@ function Menu() {
                     Cake Pops
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
+                <CardImg src={cakePop}></CardImg>
                 <div className="menuContent">
                 Minimum Order = One Dozen
                 <br></br>
@@ -86,6 +89,7 @@ function Menu() {
                     Sugar Cookies
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
+                <CardImg src={sugarCookie}></CardImg>
                 <div className="menuContent">
                 Minimum Order = One Dozen
                 <br></br>
