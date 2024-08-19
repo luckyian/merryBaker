@@ -59,6 +59,10 @@ function Menu() {
                 </div>
                 <CardImg src={macrons2}></CardImg>
                 <div className="menuContent">
+                Available daily at:
+                <a href="https://www.yelp.com/biz/coastal-vie-espresso-stanwood">  Costal Vie</a>
+                </div>
+                <div className="menuContent">
                 Minimum Order = One Dozen
                 <br></br>
                 $45 per dozen
