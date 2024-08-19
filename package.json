@@ -1,8 +1,8 @@
 {
   "name": "merrybaker",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "private": true,
-  "homepage": "https://luckyian.github.io/merryBaker/",
+  "homepage": "https://merrylittlebaker.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
