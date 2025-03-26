@@ -130,7 +130,6 @@ function Cakes() {
       </Card >
 <br/>
     
-      <h1 className="text3">I do NOT ship</h1>
 
     </Container >
 

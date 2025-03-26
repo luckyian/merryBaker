@@ -117,7 +117,6 @@ function Cupcakes() {
       <Card.Img src={example15} alt="TheGoods"></Card.Img>
       </Card >
       
-      <h1 className="text3">I do NOT ship</h1>
 
     </Container >
 

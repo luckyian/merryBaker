@@ -19,7 +19,6 @@ function Index() {
          <Goods/>
          <br/>
         
-        <h1 className="text3">I do NOT ship</h1>
       </div>
     </div>
 
