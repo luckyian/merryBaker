@@ -31,6 +31,10 @@ function Menu() {
                 8" Cake   $65
                 <br/>
                 10" Cake  $75
+                <br/>
+                Priced on Cake Board
+                <br/>
+                $5 additional cost for cake drum
                 </div>
                 <br/>
             </Card.Body>
@@ -44,9 +48,17 @@ function Menu() {
                 </div>
                 <CardImg src={cupcake}></CardImg>
                 <div className="menuContent">
-                Minimum Order = One Dozen
-                <br></br>
+                1 = $3.50
+                <br/>
+                2 = $6.50
+                <br/>
+                4 = $12.00
+                <br/>
+                6 = $18.00
+                <br/>
                 $36 per dozen
+                <br/>
+                Custom orders are a minimum one dozen
                 </div>
             </Card.Body>
         </Card>
