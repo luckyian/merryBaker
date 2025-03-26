@@ -48,6 +48,14 @@ function Contact() {
             </div>
           </Card.Body>
         </Card>
+        <Card className="aboutBack">
+          <Card.Body className="text">
+            <div className="boxer">
+              <h3>Pick-up Location:</h3>
+              <h4 className="fontSize">8701 271st NW Stanwood, WA 98292</h4>
+            </div>
+          </Card.Body>
+        </Card>
 
 
       </div >
