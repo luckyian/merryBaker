@@ -74,10 +74,20 @@ function Menu() {
                 Available daily at:
                 <a href="https://www.yelp.com/biz/coastal-vie-espresso-stanwood">  Costal Vie</a>
                 </div>
+
                 <div className="menuContent">
-                Minimum Order = One Dozen
-                <br></br>
-                $45 per dozen
+                1 = $3.50
+                <br/>
+                2 = $6.50
+                <br/>
+                4 = $12.25
+                <br/>
+                6 = $20
+                <br/>
+                $38 per dozen
+                <br/>
+                Custom orders are a minimum one dozen
+                
                 </div>
             </Card.Body>
         </Card>
