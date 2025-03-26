@@ -22,7 +22,7 @@ function Goods() {
           </div>
           <div>
          <p className="tourWords">
-         <h1 className="tourWords">Karen's Place is the home Merry Little Baker who sells macarons, cupcakes, 
+         <h1 className="tourWords">Karen's Place is the home of Merry Little Baker who sells macarons, cupcakes, 
             custom orders and other treats. It's also a spot for local small businesses to sell their porducts and
             a commisary kitchen.
             </h1>
