@@ -2,7 +2,7 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from 'react-bootstrap/Card';
 import "./style.css";
-import cake from "./roseCake2.jpg"
+import cake from "./macaroonCake.jpeg"
 import macrons2 from "./macrons3.jpg";
 import cupcake from "./menuCupCake.jpg";
 import cakePop from "./cakepopmenu.jpg"
