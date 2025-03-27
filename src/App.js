@@ -24,7 +24,7 @@ function App() {
           <Route exact path="/index" component={Index} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/cakes" component={Cakes} />
-          <Route exact path="/cupcakes" component={Cupcakes} />
+          {/* <Route exact path="/cupcakes" component={Cupcakes} /> */}
 
         </Wrapper>
         <Footer />
