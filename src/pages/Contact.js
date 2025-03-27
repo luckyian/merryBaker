@@ -53,6 +53,8 @@ function Contact() {
             <div className="boxer">
               <h3>Pick-up Location:</h3>
               <h4 className="fontSize">8701 271st NW Stanwood, WA 98292</h4>
+            {/* https://maps.app.goo.gl/kesL3QZvysZC2AhK8 */}
+            
             </div>
           </Card.Body>
         </Card>
