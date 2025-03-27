@@ -70,10 +70,6 @@ function Menu() {
                     {/* <Card.Img src={menu}  alt="MerryLittleBaker"></Card.Img> */}
                 </div>
                 <CardImg src={macrons2}></CardImg>
-                <div className="menuContent">
-                Available daily at:
-                <a href="https://www.yelp.com/biz/coastal-vie-espresso-stanwood">  Costal Vie</a>
-                </div>
 
                 <div className="menuContent">
                 1 = $3.50
