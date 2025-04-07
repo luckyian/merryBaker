@@ -59,7 +59,7 @@ function Cakes() {
 
       </Card >
       <br/>
-      <Card>
+      {/* <Card>
 
 
       <Card.Img src={example6} alt="TheGoods"></Card.Img>
@@ -127,7 +127,7 @@ function Cakes() {
 
       <Card.Img src={example16} alt="TheGoods"></Card.Img>
 
-      </Card >
+      </Card > */}
 <br/>
     
 
