@@ -24,7 +24,7 @@ function Goods() {
           </div>
           <div>
          <p className="tourWords">
-         <h1 className="tourWords">Karen's Place is a space for local small businesses to sell their porducts and has
+         <h1 className="tourWords">Karen's Place is a space for local small businesses to sell their products and has
             a commisary kitchen to produce high quality goods with commercial grade equipment.
             </h1>
            </p>
