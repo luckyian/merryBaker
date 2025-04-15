@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9b9c4680.css",
-    "main.js": "/static/js/main.50e7c469.js",
+    "main.js": "/static/js/main.35cd8859.js",
     "static/media/menuCupCake.jpg": "/static/media/menuCupCake.e6cd9a159c58ab3ca10e.jpg",
     "static/media/penguinCupCake.jpeg": "/static/media/penguinCupCake.91aa05587da1d199322f.jpeg",
     "static/media/merryLogo2.jpeg": "/static/media/merryLogo2.7461927f54cd02e978e0.jpeg",
@@ -46,10 +46,10 @@
     "static/media/barbieCupCake.jpeg": "/static/media/barbieCupCake.ce07b3c4148620f001ef.jpeg",
     "index.html": "/index.html",
     "main.9b9c4680.css.map": "/static/css/main.9b9c4680.css.map",
-    "main.50e7c469.js.map": "/static/js/main.50e7c469.js.map"
+    "main.35cd8859.js.map": "/static/js/main.35cd8859.js.map"
   },
   "entrypoints": [
     "static/css/main.9b9c4680.css",
-    "static/js/main.50e7c469.js"
+    "static/js/main.35cd8859.js"
   ]
 }
