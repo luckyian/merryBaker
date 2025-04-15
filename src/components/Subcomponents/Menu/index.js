@@ -74,9 +74,9 @@ function Menu() {
                 <div className="menuContent">
                 1 = $3.50
                 <br/>
-                2 = $6.50
+                2 = $6.75
                 <br/>
-                4 = $12.25
+                4 = $12
                 <br/>
                 6 = $20
                 <br/>
