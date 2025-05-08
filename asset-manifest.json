@@ -1,33 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.3b5bf663.css",
-    "main.js": "/static/js/main.35cd8859.js",
+    "main.js": "/static/js/main.500fb832.js",
     "static/media/menuCupCake.jpg": "/static/media/menuCupCake.e6cd9a159c58ab3ca10e.jpg",
     "static/media/penguinCupCake.jpeg": "/static/media/penguinCupCake.91aa05587da1d199322f.jpeg",
     "static/media/merryLogo2.jpeg": "/static/media/merryLogo2.7461927f54cd02e978e0.jpeg",
     "static/media/truckCupCake.jpeg": "/static/media/truckCupCake.47edaa55ee7acd15a64d.jpeg",
     "static/media/cupCake8.jpeg": "/static/media/cupCake8.a061bbf341d47a81c221.jpeg",
     "static/media/cupCake1.jpeg": "/static/media/cupCake1.2309f38beae747ee4f44.jpeg",
-    "static/media/spongeBobCake.jpeg": "/static/media/spongeBobCake.3311016f07f3ecd0c0e6.jpeg",
-    "static/media/loveCake.jpeg": "/static/media/loveCake.bd7fbd3b9a2e0f90535b.jpeg",
     "static/media/chocolateBarCupCake.jpeg": "/static/media/chocolateBarCupCake.ed82ee61e1afacfce542.jpeg",
-    "static/media/spiderWebCake.jpeg": "/static/media/spiderWebCake.1079774e9cd525835408.jpeg",
     "static/media/cupCake5.jpeg": "/static/media/cupCake5.a9bd1629efa0c9dc6d7f.jpeg",
     "static/media/carmelCupCake.jpeg": "/static/media/carmelCupCake.38b8b49e94d2e2bda2c0.jpeg",
     "static/media/cupCake7.jpeg": "/static/media/cupCake7.d8572c1edc7a7853e919.jpeg",
     "static/media/cookieCupCake.jpeg": "/static/media/cookieCupCake.f4447f222f148125a861.jpeg",
     "static/media/cupCake3.jpeg": "/static/media/cupCake3.1fb5ef7a0eb6f7fb2280.jpeg",
     "static/media/macrons3.jpg": "/static/media/macrons3.b9aa4ae90ca68559667d.jpg",
-    "static/media/truckCake.jpeg": "/static/media/truckCake.9043e88df47eda2a52b4.jpeg",
     "static/media/cupCake6.jpeg": "/static/media/cupCake6.6aa1951a4e69a63fac5b.jpeg",
-    "static/media/killerCake.jpeg": "/static/media/killerCake.83c45468a0f1913cfc7a.jpeg",
-    "static/media/roseCake.jpeg": "/static/media/roseCake.4b1f9119f9c55b1e6448.jpeg",
-    "static/media/leafCake2.jpeg": "/static/media/leafCake2.9ac41edbbd0830dc8a7b.jpeg",
-    "static/media/leafCake.jpeg": "/static/media/leafCake.e6619382af6a968b95c7.jpeg",
     "static/media/cupCake9.jpeg": "/static/media/cupCake9.682d323f2eb86b52b293.jpeg",
-    "static/media/horseCake.jpeg": "/static/media/horseCake.a97ce6b4b9720e6a4efc.jpeg",
     "static/media/cupCake2.jpeg": "/static/media/cupCake2.b1462286043b518017a1.jpeg",
-    "static/media/flowersCake.jpeg": "/static/media/flowersCake.c41dd52fe5cab37ada85.jpeg",
     "static/media/sugarcookiesmenu.jpg": "/static/media/sugarcookiesmenu.42ca3597f6b719adfea0.jpg",
     "static/media/cakepopmenu.jpg": "/static/media/cakepopmenu.190619b7ae3da3d16303.jpg",
     "static/media/cake24.jpeg": "/static/media/cake24.78f87942843e8367f0a9.jpeg",
@@ -36,7 +26,6 @@
     "static/media/KarensOutside.jpeg": "/static/media/KarensOutside.a56fa9d65423a1e0cefd.jpeg",
     "static/media/cake23.jpeg": "/static/media/cake23.9309be4029418ec6e564.jpeg",
     "static/media/macaroonCake.jpeg": "/static/media/macaroonCake.83b974b73cc83621eecc.jpeg",
-    "static/media/liloStitchCake.jpeg": "/static/media/liloStitchCake.7c044d9fbf715107b1c4.jpeg",
     "static/media/cake21.jpeg": "/static/media/cake21.d0756d00e56cc9cec93c.jpeg",
     "static/media/logo3.jpeg": "/static/media/logo3.488ba8fd25c615269ec9.jpeg",
     "static/media/cake22.jpeg": "/static/media/cake22.e47eb2eefd7149d0acc9.jpeg",
@@ -46,10 +35,10 @@
     "static/media/barbieCupCake.jpeg": "/static/media/barbieCupCake.ce07b3c4148620f001ef.jpeg",
     "index.html": "/index.html",
     "main.3b5bf663.css.map": "/static/css/main.3b5bf663.css.map",
-    "main.35cd8859.js.map": "/static/js/main.35cd8859.js.map"
+    "main.500fb832.js.map": "/static/js/main.500fb832.js.map"
   },
   "entrypoints": [
     "static/css/main.3b5bf663.css",
-    "static/js/main.35cd8859.js"
+    "static/js/main.500fb832.js"
   ]
 }
